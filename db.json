@@ -1,13 +1,6 @@
 {
     "family":[
         {
-            "id": 0,
-            "name": "Emelia Moody",
-            "born": 1950,
-            "spouseId": 1,
-            "hometown": "Boston"
-        },
-        {
             "id": 1,
             "name": "Nathanial Stewart",
             "born": 1950,
@@ -240,28 +233,6 @@
             "name": "Roger Red",
             "born": 2031,
             "spouseId": 27,
-            "hometown": "Philadelphia"
-        },
-        {
-            "id": 31,
-            "name": "Juan Again",
-            "born": 2049,
-            "spouseId": 29,
-            "hometown": "Philadelphia"
-        },
-        {
-            "id": 32,
-            "name": "Peter Pastime",
-            "born": 2073,
-            "spouseId": 29,
-            "hometown": "Philadelphia"
-        },
-        {
-            "id": 33,
-            "name": "Chad Gomez",
-            "born": 2103,
-            "parentId1": 29,
-            "parentId2": 32,
             "hometown": "Philadelphia"
         }
     ]
